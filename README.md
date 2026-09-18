@@ -5,7 +5,9 @@
 
 ## About 
 **Analyst:** Kushagra Yadav
+
 **Tools:** Python | SQL | Power BI | Git
+
 **Dataset:** IBM HR Analytics | 1,470 employees | 35 columns 
 
 ---

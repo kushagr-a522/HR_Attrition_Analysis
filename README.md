@@ -55,7 +55,7 @@ To analyze IBM HR employee data and identify key factors driving employee attrit
 - [x] Dataset downloaded and loaded
 - [x] Business questions defined
 - [x] Initial EDA done
-- [ ] Data cleaning and full analysis
+- [x] Data cleaning and full analysis
 - [ ] SQL queries
 - [ ] EDA visualizations
 - [ ] Power BI dashboard

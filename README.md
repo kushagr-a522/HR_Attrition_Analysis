@@ -45,6 +45,7 @@ To analyze IBM HR employee data and identify key factors driving employee attrit
 
 ## Project Structure
 - `HR_Attrition.csv` - Raw dataset
+- `HR_Attrition_Cleaned.csv` - Cleaned dataset
 - `HR_Attrition_Analysis.ipynb` - Full analysis notebook
 - `.gitignore` - Excludes unnecessary files
 

@@ -30,7 +30,7 @@ To analyze IBM HR employee data and identify key factors driving employee attrit
 - 1,470 employees
 - 35 columns covering demographics, job details, satisfaction scores
 - **Target variable:** Attrition (Yes/No)
-- **Overall attrition rate:** *Will be shown after the analysis!*
+- **Overall attrition rate:** ~16% (237 employees)
 
 ---
 
